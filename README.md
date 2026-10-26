@@ -10,7 +10,7 @@ py insertion_sort.py
 
 ## Example
 
-Input: `[5, 2, 4, 6, 1, 3]`
+Input: `[5, 2, 4, 6, 1, 3]`  
 Output: `[6, 5, 4, 3, 2, 1]`
 
 ## How it works
